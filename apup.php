@@ -1,7 +1,7 @@
 
 {"Version":"1.01",
 
-"Url":"https://github.com/contrabrand/bstl/raw/main/stl.zip" ,
+"Url":"https://github.com/contrabrand/sec/raw/main/sec.zip" ,
 
 "Changelog":"
 SecVPN ยินดีต้อนรับ 
