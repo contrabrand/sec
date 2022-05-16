@@ -1,5 +1,5 @@
 
-{"Version":"1.07",
+{"Version":"1.08",
 
 "Url":"https://github.com/contrabrand/sec/raw/main/sec.zip" ,
 
