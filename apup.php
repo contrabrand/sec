@@ -1,14 +1,13 @@
 
-{"Version":"1.09",
+{"Version":"1.10",
 
 "Url":"https://github.com/contrabrand/sec/raw/main/sec.zip" ,
 
 "Changelog":"
 SecVPN ยินดีต้อนรับ 
 ⚠️รบกวนอ่านสักนิดนะครับ      
-🆙อัปเดท : 17/05/2022
-เพิ่มเซิฟไทย​1เซิฟ
-ทั่วไปเลือก​ CAT
+🆙อัปเดท : 21/05/2022
+ทั่วไปเลือก​ CAT/HUAWEI
 เกมเลือก​ READY/INET
 📲 ซิมที่ใช้งานได้
 🟢 AIS 🇹🇭 
